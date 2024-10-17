@@ -1,4 +1,0 @@
-# Server Configuration
-sv_hostname "BONJOUR RP Server"
-sv_maxclients 32
-sv_endpointprivacy true
