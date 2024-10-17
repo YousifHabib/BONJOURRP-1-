@@ -1,5 +1,8 @@
+cd path/to/your/local/repo/BONJOURRP-1-
 echo "# BONJOUR RP Configuration" > server.cfg
 # Server Configuration
 sv_hostname "BONJOUR RP Server"
 sv_maxclients 32
 sv_endpointprivacy true
+git commit -m "Add server.cfg file"
+git push origin main
